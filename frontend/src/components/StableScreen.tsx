@@ -143,7 +143,7 @@ const StableScreen: React.FC<StableScreenProps> = ({
           <div className="flex items-center gap-6 px-6 py-3 md:py-0 h-full">
             <img
               src="/logo1.png"
-              alt="CHAIN SLASH"
+              alt="CHAIN CLASH"
               className="h-8 w-auto drop-shadow-[0_0_10px_rgba(234,88,12,0.3)]"
             />
           </div>

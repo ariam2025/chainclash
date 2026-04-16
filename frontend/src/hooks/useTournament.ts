@@ -8,7 +8,7 @@ import { TournamentEntry } from '../lib/types'
 let mockTournamentsList: TournamentEntry[] = [
   {
     id: 1,
-    name: "CHAIN SLASH Clash",
+    name: "CHAIN CLASH Clash",
     participants: ["0xmock1", "0xmock2", "0xmock3"],
     round: 1,
     winner: null,

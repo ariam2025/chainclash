@@ -47,7 +47,7 @@ const LandingScreen: React.FC<LandingScreenProps> = ({ onEnter, onPlayGuest }) =
         <div className="relative group mb-6 flex justify-center">
           <img
             src="/logo1.png"
-            alt="CHAIN SLASH"
+            alt="CHAIN CLASH"
             className="w-full max-w-xl xl:max-w-2xl transform transition-all duration-700 hover:scale-105 active:scale-95 drop-shadow-[0_0_30px_rgba(234,88,12,0.3)] group-hover:drop-shadow-[0_0_50px_rgba(234,88,12,0.6)]"
             style={{ imageRendering: 'pixelated' }}
           />

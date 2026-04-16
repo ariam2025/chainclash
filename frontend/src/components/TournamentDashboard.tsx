@@ -222,7 +222,7 @@ const TournamentDashboard: React.FC<TournamentDashboardProps> = ({ onBack, onVie
                         </div>
                       </div>
                       <h3 className="text-lg font-fantasy font-black uppercase tracking-tight text-white leading-none">
-                        {t.name || 'CHAIN SLASH Clash'}
+                        {t.name || 'CHAIN CLASH Clash'}
                       </h3>
                       <p className="text-[8px] font-black uppercase tracking-[0.2em] text-white/25 mt-1">
                         8-Player Bracket

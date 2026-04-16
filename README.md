@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/logo1.png" alt="CHAIN SLASH Logo" width="320"/>
+  <img src="frontend/public/logo1.png" alt="CHAIN CLASH Logo" width="320"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## ⚔️ Project Overview
 
-**CHAIN SLASH** is a fully on-chain, tactical creature battle game that leverages the power of **Base** to deliver a high-performance web2-like gaming experience. Players mint unique elemental brawlers, train them against AI in the arena, and challenge rivals in wager-backed PvP duels.
+**CHAIN CLASH** is a fully on-chain, tactical creature battle game that leverages the power of **Base** to deliver a high-performance web2-like gaming experience. Players mint unique elemental brawlers, train them against AI in the arena, and challenge rivals in wager-backed PvP duels.
 
 By utilizing **Move VM** for game logic and **Independant Appchain Deployment**, we've built a scalable gaming economy where every move matters.
 
@@ -33,7 +33,7 @@ This project was built from the ground up to showcase the unique capabilities of
 
 > [!IMPORTANT]
 > ### ⚡ Auto-Signing (Session UX)
-> Traditional blockchain games are plagued by constant wallet popups. CHAIN SLASH implements **Session Keys**. Once you enter the battle arena, you approve a session once. Every subsequent "Attack", "Defend" or "Special" move is signed automatically in the background. **Zero popups. 100% immersive combat.**
+> Traditional blockchain games are plagued by constant wallet popups. CHAIN CLASH implements **Session Keys**. Once you enter the battle arena, you approve a session once. Every subsequent "Attack", "Defend" or "Special" move is signed automatically in the background. **Zero popups. 100% immersive combat.**
 
 > [!TIP]
 > ### 🏷️ Base Usernames (.base)
@@ -130,5 +130,5 @@ To run against a local appchain instead of mock mode:
 ---
 
 <p align="center">
-  Built with ❤️ for CHAIN SLASH on Base.
+  Built with ❤️ for CHAIN CLASH on Base.
 </p>

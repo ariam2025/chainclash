@@ -9,7 +9,7 @@ interface CreateTournamentModalProps {
 }
 
 const CreateTournamentModal: React.FC<CreateTournamentModalProps> = ({ onClose, onCreated }) => {
-  const [name, setName] = useState('CHAIN SLASH Cup')
+  const [name, setName] = useState('CHAIN CLASH Cup')
   const [fee, setFee] = useState('2.0')
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [alertConfig, setAlertConfig] = useState<{ title: string; message: string; variant: 'danger' | 'warning' | 'info' } | null>(null)

@@ -1,4 +1,4 @@
-# CHAIN SLASH EVM Contracts (Base / Hardhat)
+# CHAIN CLASH EVM Contracts (Base / Hardhat)
 
 This workspace migrates the original Move contracts to Solidity for Base-compatible deployment.
 
