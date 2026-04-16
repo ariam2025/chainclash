@@ -90,45 +90,6 @@ Host or join weekly tournaments. 8 players compete in a single-elimination brack
 
 ---
 
-## 📦 Setting Up Locally
-
-### Prerequisites
-- Node.js v18+
-- [Base Sepolia RPC](https://docs.base.org/base-chain/network-information/base-sepolia) (Optional, mock mode available)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Danielodingz/Initia-brawlers.git
-   cd Initia-brawlers
-   ```
-2. Install frontend dependencies:
-   ```bash
-   cd frontend
-   npm install
-   ```
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-### Running the Appchain
-To run against a local appchain instead of mock mode:
-1. Update `frontend/src/lib/constants.ts`: `MOCK_MODE = false`.
-2. Configure your Base Sepolia RPC and deploy EVM contracts.
-
----
-
-## 📄 Submission Metadata
-
-- **Chain ID**: `84532`
-- **VM**: `EVM`
-- **Track**: `Gaming`
-- **Repo URL**: [Danielodingz/Initia-brawlers](https://github.com/Danielodingz/Initia-brawlers)
-- **Submission JSON**: `.initia/submission.json`
-
----
-
 <p align="center">
   Built with ❤️ for CHAIN CLASH on Base.
 </p>
