@@ -1,0 +1,26 @@
+[
+  {
+    "chain_id": "84532",
+    "chain_name": "Base Sepolia",
+    "apis": {
+      "rpc": [{ "address": "https://sepolia.base.org" }],
+      "rest": [{ "address": "https://sepolia.base.org" }]
+    },
+    "bech32_prefix": "base",
+    "fees": {
+      "fee_tokens": [
+        {
+          "denom": "wei",
+          "fixed_min_gas_price": 0.15
+        }
+      ]
+    },
+    "staking": {
+      "staking_tokens": [
+        {
+          "denom": "wei"
+        }
+      ]
+    }
+  }
+]

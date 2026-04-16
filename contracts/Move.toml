@@ -1,0 +1,10 @@
+[package]
+name = "initia_brawlers"
+version = "0.0.1"
+
+[dependencies]
+InitiaStdlib = { local = "./stdlib_temp" }
+
+[addresses]
+initia_brawlers = "0x445456B1060813AC6B9BF90A03A35AAC591CE131"
+std = "0x1"

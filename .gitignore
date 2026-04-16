@@ -1,0 +1,5 @@
+contracts-evm/node_modules/
+contracts-evm/artifacts/
+contracts-evm/cache/
+contracts-evm/typechain-types/
+node_modules/

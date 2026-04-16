@@ -1,0 +1,12 @@
+{
+  "project_name": "CHAIN SLASH",
+  "repo_url": "https://github.com/Danielodingz/Initia-brawlers",
+  "commit_sha": "main",
+  "rollup_chain_id": "84532",
+  "deployed_address": "0x0000000000000000000000000000000000000000",
+  "vm": "evm",
+  "native_feature": "auto-signing",
+  "core_logic_path": "contracts/sources/battle.move",
+  "native_feature_frontend_path": "frontend/src/components/BattleArena.tsx",
+  "demo_video_url": "https://youtu.be/SG2iRpG5fTs?si=xBinjUcfFMecioXY"
+}
